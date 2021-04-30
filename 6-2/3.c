@@ -11,7 +11,7 @@ int main(void)
 		printf("-10<=n<0");
 	}
 	else if (0<=n&&n<10){
-		printf("0<=n=10");
+		printf("0<=n<10");
 	}
 	else if (n>=10){
 		printf("n>=10");
